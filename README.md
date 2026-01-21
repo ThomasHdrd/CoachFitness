@@ -28,6 +28,3 @@ to front-end integration.
 
 ## 👤 Author
 Thomas Houdard
-
-
-Translated with DeepL.com (free version)
